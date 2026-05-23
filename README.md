@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚽ Premier League Analytics Dashboard
 
 ## 📌 Project Overview
@@ -40,3 +41,7 @@ of Premier League data using SQL, Python, Power BI and Excel.
 - England has the most players in the Premier League
 
 ## 📁 Project Structure
+=======
+# premier-league-dashboard
+End-to-end Premier League Analytics Dashboard using SQL, Power BI &amp; Excel
+>>>>>>> 30c09b6030a2dcd5b6c09761b69327dc9fe16570
